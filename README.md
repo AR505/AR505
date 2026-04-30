@@ -17,6 +17,12 @@
 
 ---
 
+### 📜 Certifications
+*   🎓 **Computer Network Fundamentals** - Information Technology Institute (**ITI**)
+    *   *Credential ID:* RNXh3uidgJ | *Issued:* Nov 2025
+
+---
+
 ### 🛠️ Technical Arsenal
 
 | Domain | Proficiency |
@@ -28,16 +34,15 @@
 
 ---
 
-### 🧩 Problem Solving Matrix
+### 🧩 Competitive Programming Matrix
 <p align="center">
-  <!-- LeetCode Stats Card - Updated & Reliable API -->
-  <a href="https://leetcode.com/u/AmiR_ARprogrammer/">
-    <img src="https://leetcard.jacoblin.cool/AmiR_ARprogrammer?theme=dark&font=Fira%20Code" alt="Amir AR's LeetCode Stats" />
+  <a href="https://codeforces.com/profile/A0000R">
+    <img src="https://itstustats.vercel.app/api?username=A0000R&theme=dark" alt="Codeforces Stats" height="150" />
   </a>
 </p>
 
 - 🛡️ **Methodology:** Solving algorithmic challenges from **ICPC Mansoura Sheets**.
-- 🚀 **Goal:** Reaching **Knight/Guardian** rank on LeetCode by optimizing Time & Space Complexity.
+- 🚀 **Current Focus:** Competitive programming on **Codeforces** to sharpen problem-solving speed.
 
 ---
 
@@ -63,7 +68,7 @@
   <a href="https://linkedin.com/in/amir-alla-157534343/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/AmiR_ARprogrammer/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <a href="https://codeforces.com/profile/A0000R">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
 </p>
