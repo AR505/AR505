@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#52fa5a;">Amir AR</span> 💻</h1>
 
 <p align="center">
-  <strong>Computer Science Student | Math & Physics Major | C++ & Python Enthusiast</strong>
+  <strong>Computer Science Student | Math & Physics Major @ Zagazig University | C++ & Python Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -12,39 +12,42 @@
 
 ---
 
-### 🚀 Current Goals
-- 🔭 **Working on:** Mastering **Data Structures & Algorithms** using C++.
-- 🎯 **Target:** Building a strong profile for **GSoC 2027** and Open Source contributions.
-- 📚 **Learning:** Deep diving into **Backend Architecture** and System Design.
+### 🚀 Road to GSoC 2027 & Google
+- 🔭 **Deep Dive:** Mastering **Memory Management** in C++ (Heap vs Stack, Pointers).
+- 🏗️ **Architecture:** Building scalable **Backend Systems** with PostgreSQL and Docker.
+- 🎯 **Goal:** Contributing to Open Source organizations involving **System Tools** and **Performance Optimization**.
+- 🐧 **Linux Power User:** Customizing my **Debian Trixie** environment for maximum productivity.
 
 ---
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/-Python-1a1a1a?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-1a1a1a?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-1a1a1a?&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML5-1a1a1a?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-1a1a1a?&logo=CSS3&logoColor=264de4)
+### 🧩 Problem Solving Journey
+<p align="left">
+  <a href="https://leetcode.com/u/AmiR_ARprogrammer/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=AmiR_ARprogrammer&theme=dark" alt="LeetCode Stats" height="180" />
+  </a>
+</p>
+
+- 🛡️ **Strategy:** Solving challenges from **ICPC Mansoura Sheets** and **Codeforces**.
+- 🛠️ **Current Focus:** Data Structures implementation from scratch (`Stacks`, `Linked Lists`, `Dynamic Arrays`).
+- 📊 **Analysis:** Deep understanding of **Big O Notation** and algorithm efficiency.
 
 ---
 
-### ⚙️ Technologies & Tools
-![Linux](https://img.shields.io/badge/-Linux-1a1a1a?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-1a1a1a?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-1a1a1a?&logo=Git)
-![PyQt5](https://img.shields.io/badge/-PyQt5-1a1a1a?&logo=Qt)
-![Pandas](https://img.shields.io/badge/-Pandas-1a1a1a?&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-1a1a1a?&logo=numpy)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?&logo=postgresql)
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `C++`, `Python`, `C`, `JavaScript`, `HTML/CSS` |
+| **Backend & DB** | `PostgreSQL`, `Docker`, `System Design` |
+| **Linux/DevOps** | `Debian`, `Git`, `Bash Scripting`, `Waydroid/Scrcpy` |
+| **Libraries** | `PyQt5`, `Pandas`, `NumPy` |
 
 ---
 
-### 🧩 Featured Projects
-* **[Smart Business System](https://github.com/AmirAR/Smart-Business)**: A comprehensive management system built with **Python & PyQt5**, focusing on inventory and sales logic.
-* **[System Health Analyzer](https://github.com/AmirAR/System-Health)**: A **Linux** utility tool to monitor CPU, RAM, and system performance in real-time.
-* **[Terminal Assistant](https://github.com/AmirAR/Terminal-Assistant)**: A CLI tool to automate daily tasks and improve workflow productivity.
-* **[Inventory Manager](https://github.com/AmirAR/Inventory-System)**: Full-stack approach to data persistence and inventory tracking.
+### 🧠 Featured Projects
+* **[Smart Business System](https://github.com/AmirAR/Smart-Business)**: Inventory and sales logic using **Python & PyQt5**.
+* **[System Health Analyzer](https://github.com/AmirAR/System-Health)**: Real-time Linux resource monitor (CPU/RAM).
+* **[Terminal Assistant](https://github.com/AmirAR/Terminal-Assistant)**: CLI automation tool for daily developer workflows.
 
 ---
 
@@ -54,8 +57,11 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR505&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-### 📈 Activity Graph
-![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AR505&theme=tokyo-night&hide_border=true)
+### 🐧 My Dev Setup
+- **OS:** Debian Trixie (Testing branch)
+- **Hardware:** Dell Precision 5530 Workstation
+- **Editor:** VS Code / Vim
+- **Terminal:** Tilix / Konsole
 
 ---
 
