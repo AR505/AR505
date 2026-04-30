@@ -37,7 +37,6 @@
 ### 🧩 Competitive Programming Matrix
 <p align="center">
   <a href="https://codeforces.com/profile/A0000R">
-    <img src="https://itstustats.vercel.app/api?username=A0000R&theme=dark" alt="Codeforces Stats" height="150" />
   </a>
 </p>
 
