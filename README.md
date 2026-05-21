@@ -24,13 +24,37 @@ I am a sophomore at the **Faculty of Science**, majoring in **Mathematics and Ph
 
 ### 🛠️ Technical Arsenal
 
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Languages** | `C++` (Core), `Python`, `Java`, `SQL`, `Bash` |
-| **Concepts** | Object-Oriented Programming (OOP), Data Structures, Memory Management |
-| **OS & Tools** | `Debian Linux`, `Git/GitHub`, `Terminal Scripting`, `Docker` |
-| **Applied Math** | Numerical Methods, Discrete Mathematics, Probability |
+**Programming Languages:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Core Concepts & Math:**
+![OOP](https://img.shields.io/badge/OOP-100000?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-52FA5A?style=for-the-badge&logoColor=black)
+![Applied Math](https://img.shields.io/badge/Applied_Math-007ACC?style=for-the-badge)
+
+**OS & Tools:**
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 Performance Telemetry
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AR505&show_icons=true&theme=tokyonight&hide_border=true" alt="Amir's GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR505&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Amir's Top Languages" />
+</p>
+
+> *"Continuous Integration: Every commit is a step toward mastering the machine."*
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AR505&theme=tokyo-night&hide_border=true&area=true&color=52FA5A" alt="Amir's Activity Graph" />
+</p>
 ---
 
 ### 🏛️ Engineering Portfolio & Recent Projects
@@ -40,16 +64,6 @@ I am a sophomore at the **Faculty of Science**, majoring in **Mathematics and Ph
 * 🧩 **[DSA-from-scratch](https://github.com/AR505/DSA-from-scratch)**: My personal repository containing manual implementations of core Data Structures (Arrays, Linked Lists, Maps) and solutions to LeetCode problems (e.g., Two Sum, Median of Arrays).
 * 🖥️ **[System Health Analyzer](https://github.com/AR505/System-Health)**: High-efficiency Linux monitoring utility built natively for **Debian** systems.
 
----
-
-### 📊 Performance Telemetry
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AR505&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Amir's Stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR505&layout=compact&langs_count=6&theme=tokyonight" alt="Amir's Top Languages"/>
-</p>
-
-> *"Continuous Integration: Every commit is a step toward mastering the machine."*
-![Amir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AR505&theme=tokyo-night&hide_border=true&area=true&color=52FA5A)
 
 ---
 
