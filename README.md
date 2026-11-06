@@ -54,23 +54,10 @@ I am a 3rd-year undergraduate student at the **Faculty of Science (Zagazig Unive
 
 ---
 
-### 📈 GitHub Activity Telemetry
+### 📈 Activity Telemetry
 
 > *"Continuous Integration: Every commit bridges physical laws with digital execution."*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AR505&theme=tokyo-night&hide_border=true&area=true&color=52FA5A" alt="Amir's Activity Graph"/>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/amir-alla-157534343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codeforces.com/profile/A0000R">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Status-Active_Contributor-52FA5A?style=for-the-badge&logo=github&logoColor=black" alt="Status">
+  <img src="
